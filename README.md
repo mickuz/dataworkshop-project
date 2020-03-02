@@ -1,2 +1,1 @@
-# dataworkshop_project
-Prognozowanie cen samochodów
+# Prognozowanie cen samochodów
